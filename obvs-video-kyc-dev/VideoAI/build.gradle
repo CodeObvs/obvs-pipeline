@@ -22,6 +22,7 @@ apply plugin: 'io.spring.dependency-management'
 
 group 'ai.obvs'
 version '1.0-SNAPSHOT'
+version '2.0-SNAPSHOT'
 
 ext {
     apacheCommonsIoVersion = '2.5'
